@@ -6,7 +6,7 @@ import React from 'react';
       <span className="nav--text">tweeter</span>
   
       <div className="btn btn--scroll">
-        <a href="#" className="btn__text btn--borderless" title="Compose Tweet">
+        <a href="none" className="btn__text btn--borderless" title="Compose Tweet">
          
           <span className="btn--bold">Write</span> a new tweet
           <br />
