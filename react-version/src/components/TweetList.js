@@ -1,5 +1,5 @@
 import React from 'react'; //optional
-import Tweet from './components/Tweet'
+import Tweet from './Tweet'
 
   function TweetList(){
     
